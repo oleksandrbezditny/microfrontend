@@ -1,5 +1,5 @@
-ecomm/container/node_modules
-ecomm/products/node_modules
-ecomm/container/dist
-ecomm/products/dist
+container/node_modules
+products/node_modules
+container/dist
+products/dist
 
